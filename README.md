@@ -46,7 +46,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/akhil0778/apple-watch-studio-clone.git
+git clone https://github.com/haranadh1997/apple-watch-studio-clone.git
 Navigate to the project directory:
 
 bash
